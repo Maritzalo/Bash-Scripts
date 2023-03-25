@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+touch /tmp/soyUnArchivo
+file /tmp/soyUnArchivo
+ls
